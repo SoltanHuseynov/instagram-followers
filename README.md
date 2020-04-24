@@ -2,12 +2,11 @@
 instagram
 # Designed for Windows 32 bit / 64 bit
 
-#[1]install python3
+[1]install python3
 
-#windows cmd
+#windows cmd#
 
 [1] pip install tkintertable
-
 
 [2] pip install os
 
