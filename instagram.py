@@ -6,10 +6,8 @@ liste=["Aaren\nkaue12345\nBrena\nCarolyne\n",
         "trustno1\ntrixie29\ntreagus\nwil135135\n",
         "wil135\nwiP4OX7727\nwhocares\nwho.am.1\n",
         "whedgit06\nwhatever&#33;&quot;\nwhatever&#33;",
-        "what\nwhafswada\nwfjmdw\nAnar_@\nArslan_drake\nUmid_!\n",
-        "Memi_PB\n",
-        "Sadik_02\n",
-        "Vasif_jump\n"]
+        "what\nwhafswada\nwfjmdw\nAnar_@\nUmid_!\n",
+        "Memi_PB\n"]
 from tkinter import* 
 from insta_server import window_insta
 
